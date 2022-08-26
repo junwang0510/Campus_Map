@@ -1,0 +1,7 @@
+Briefly list any changes you made to your graph class during hw-pathfinder, and why you made those changes.
+
+Since I want to allow the graph to accept any type of node and any type of edge, I decided to make the graph
+take in parameters of type <N, E> and made all the nodes to take in data of type N and the edge label to take
+in data of type E. I modified the method of type comparison in equals() to address the issue of type erasure.
+I did not add or remove any methods as the current methods support the desired operations. I did not make any
+change to the method specifications in the graph class.
