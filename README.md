@@ -5,4 +5,4 @@ Application that utilizes Dijkstra's algorithm to find the shortest path between
 Made with model-view-controller pattern consisting of a variety of modular components with a thorough test suite, including but no limited to:
 generic graph class, generic campus map class, back end java spark server, front end React components.
 
-Tools/Languages used: Java, Spark Java, React, TypeScript, CSS
+ `Tools/Languages used: Java, Spark Java, React, TypeScript, CSS`
